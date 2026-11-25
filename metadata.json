@@ -1,0 +1,8 @@
+{
+  "name": "Talking Bacteria - Sound Creatures",
+  "description": "Un jouet numérique interactif avec des bactéries qui transforment votre voix.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
